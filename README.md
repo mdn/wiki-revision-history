@@ -46,6 +46,14 @@ to the URL. For example:
 That list of usernames is similar to the list in `revisions.csv` except their,
 each username is made distinct and in order of most recently touched first.
 
+## About the integrity of this file
+
+**We do NOT accept pull requests to this history.**
+This record is carefully protected to be accurate and unaltered. If you want
+to show your involvement, you can share the URL to the file on this
+GitHub repo. In fact, it's better to do that then to download the CSV
+file if you want to send it to a prospective employer or school application.
+
 ## License
 
 [See LICENSE.md](LICENSE.md).
